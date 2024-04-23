@@ -17,6 +17,7 @@
 
 ```bash
 git clone https://github.com/your-username/your-repository-name.git
+```
 
 ## 🎓 Список уроков
 
@@ -25,33 +26,34 @@ git clone https://github.com/your-username/your-repository-name.git
 ## Курсы
 
 🚀 **HTML CSS JS** – Для тех, кто не боится пробовать новое.  
-[Перейти на курс: HTML CSS JS на Stepik](https://stepik.org/course/HTML-CSS-JS)
+[Перейти на курс: HTML CSS JS на Stepik](https://stepik.org/course/135466/promo)
 
 🐍 **Python** - Для тех, кто хочет узнать что-то новое.  
-[Перейти на курс: Python на Stepik](https://stepik.org/course/Python)
+[Перейти на курс: Python на Stepik](https://stepik.org/course/181030)
 
 💪 **HTML CSS PRO** – Для тех, кто покоряет вершины и стремится к высоте.  
-[Перейти на курс: HTML CSS PRO на Stepik](https://stepik.org/course/HTML-CSS-PRO)
+[Перейти на курс: HTML CSS PRO на Stepik](https://stepik.org/170115)
 
 ✨ **HTML CSS LITE** – Для тех, кто хочет многое в малом.  
-[Перейти на курс: HTML CSS LITE на Stepik](https://stepik.org/course/HTML-CSS-LITE)
+[Перейти на курс: HTML CSS LITE на Stepik](https://stepik.org/177582)
 
 🐙 **GIT & GITHUB** – Для тех, кто готов делиться своим творением с миром.  
-[Перейти на курс: GIT & GITHUB на Stepik](https://stepik.org/course/GIT-GITHUB)
+[Перейти на курс: GIT & GITHUB на Stepik](https://stepik.org/179698)
 
 🐘 **PHP** – Для тех, кому не страшны новые знания.  
-[Перейти на курс: PHP на Stepik](https://stepik.org/course/PHP)
+[Перейти на курс: PHP на Stepik](https://stepik.org/181092)
 
 🚀 **JavaScript PRO** – Для тех, кто готов к большему и великому.  
-[Перейти на курс: JavaScript PRO на Stepik](https://stepik.org/course/JavaScript-PRO)
+[Перейти на курс: JavaScript PRO на Stepik](https://stepik.org/158971)
 
 🐍 **PYTHON EXCLUSIVE** – Для тех, кто хочет перейти на ступеньку выше.  
-[Перейти на курс: PYTHON EXCLUSIVE на Stepik](https://stepik.org/course/PYTHON-EXCLUSIVE)
+[Перейти на курс: PYTHON EXCLUSIVE на Stepik](https://stepik.org/181396)
 
 📊 **SQL LITE** – Для тех, кто стремится понять язык баз данных и раскрывать их потенциал (для старта или малых проектов).  
-[Перейти на курс: SQL LITE на Stepik](https://stepik.org/course/SQL-LITE)
+[Перейти на курс: SQL LITE на Stepik](https://stepik.org/184095)
 
 🌐 **FULLSTACK PRO MAX** – Для тех, кто жаждет познать все аспекты веб-разработки от А до Я и властвовать миром информационных технологий. 
+[Перейти на курс: FULLSTACK PRO MAX](https://stepik.org/183142)
 
 ## 📬 Контакты
 
